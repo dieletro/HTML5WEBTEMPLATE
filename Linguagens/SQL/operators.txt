@@ -1,0 +1,13 @@
+all 
+and 
+any 
+between 
+cross 
+in 
+join 
+like 
+not 
+null 
+or 
+outer 
+some
